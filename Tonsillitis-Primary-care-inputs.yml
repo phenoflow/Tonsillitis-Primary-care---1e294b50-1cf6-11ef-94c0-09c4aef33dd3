@@ -1,0 +1,81 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/tonsillitis-primary-care---primary.py
+inputModule3:
+  class: File
+  path: python/follicular-tonsillitis-primary-care---primary.py
+inputModule4:
+  class: File
+  path: python/staphylococcal-tonsillitis-primary-care---primary.py
+inputModule5:
+  class: File
+  path: python/lingular-tonsillitis-primary-care---primary.py
+inputModule6:
+  class: File
+  path: python/gangrenous-tonsillitis-primary-care---primary.py
+inputModule7:
+  class: File
+  path: python/tonsillitis-primary-care-examination---primary.py
+inputModule8:
+  class: File
+  path: python/tonsillitis-primary-care-necrotizing---primary.py
+inputModule9:
+  class: File
+  path: python/chronic-tonsillitis-primary-care---primary.py
+inputModule10:
+  class: File
+  path: python/tonsillitis-primary-care-history---primary.py
+inputModule11:
+  class: File
+  path: python/viral-tonsillitis-primary-care---primary.py
+inputModule12:
+  class: File
+  path: python/acute-tonsillitis-primary-care---primary.py
+inputModule13:
+  class: File
+  path: python/erythematous-tonsillitis-primary-care---primary.py
+inputModule14:
+  class: File
+  path: python/pneumococcal-tonsillitis-primary-care---primary.py
+inputModule15:
+  class: File
+  path: python/exudative-tonsillitis-primary-care---primary.py
+inputModule16:
+  class: File
+  path: python/tonsillitis-primary-care-catarrhal---primary.py
+inputModule17:
+  class: File
+  path: python/tonsillitis-primary-care-vincent---primary.py
+inputModule18:
+  class: File
+  path: python/recurrent-tonsillitis-primary-care---primary.py
+inputModule19:
+  class: File
+  path: python/fusobacterial-tonsillitis-primary-care---primary.py
+inputModule20:
+  class: File
+  path: python/ulcerative-tonsillitis-primary-care---primary.py
+inputModule21:
+  class: File
+  path: python/infective-tonsillitis-primary-care---primary.py
+inputModule22:
+  class: File
+  path: python/caseous-tonsillitis-primary-care---primary.py
+inputModule23:
+  class: File
+  path: python/streptococcal-tonsillitis-primary-care---primary.py
+inputModule24:
+  class: File
+  path: python/tonsillitis-primary-care-throat---primary.py
+inputModule25:
+  class: File
+  path: python/tonsillitis-primary-care-organism---primary.py
+inputModule26:
+  class: File
+  path: python/tonsillitis---primary.py
+inputModule27:
+  class: File
+  path: python/output-cases.py
